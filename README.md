@@ -12,7 +12,7 @@ This project demonstrates an end-to-end data workflow:
 ## Process
 
 ### 1. Source
-Scraped listings from [site name here].
+Scraped listings from akiyajapan.com.
 ![Source website](images/Akiya_Website.png)
 
 ### 2. Raw scraped data
