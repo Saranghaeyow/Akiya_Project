@@ -13,17 +13,17 @@ This project demonstrates an end-to-end data workflow:
 
 ### 1. Source
 Scraped listings from akiyajapan.com.
-![Source website](images/Akiya_Website.png)
+![Source website](Images/Akiya_Website.png)
 
 ### 2. Raw scraped data
-![Raw data](images/Messy_Data.png)
+![Raw data](Images/Messy_Data.png)
 
 ### 3. Cleaned data
 Split combined fields, handled missing values, converted price to numeric.
-![Cleaned data](images/Cleaned_Data_1.png)
+![Cleaned data](Images/Cleaned_Data_1.png)
 
 ### 4. Feature-engineered data (for modeling)
-![Encoded data](images/For_Model.png)
+![Encoded data](Images/For_Model.png)
 
 ## Files
 - `1_scraping.ipynb` — scraping logic
